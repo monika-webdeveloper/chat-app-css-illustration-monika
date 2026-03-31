@@ -9,7 +9,7 @@ const Input = () => {
     // </div>
 
     <div className='bg-white text-gray-300 text-[8px] font-normal leading-[120%] tracking-normal rounded-2xl py-1 pl-4 pr-2 flex justify-between items-center'>
-      <label htmlFor='message'>
+      <label>
         <input
           type='text'
           placeholder='Type a message'
